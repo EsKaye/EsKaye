@@ -2,7 +2,7 @@
 
 💡 Visionary. Code Alchemist. GameChanger.
 
-🎮 I’m building **GameDin.xyz** — the **LinkedIn for Gamers, Developers, eSports Enthusiasts... and their Mothers** (yes, seriously).
+🎮 I’m building **[GameDin.xyz](https://gamedin.xyz)** — the **LinkedIn for Gamers, Developers, eSports Enthusiasts... and their Mothers** (yes, seriously).
 
 🌐 My goal? To unite tribes across gaming, tech, and the multiverse — one connection at a time.
 
