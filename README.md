@@ -19,7 +19,7 @@
 - Anything bold, wild, or beautifully unreasonable
 
 📫 Reach out:
-- 📧 Sunny@GameDin.xyz
+- 📧 Discord! es.kaye
 - 🌍 [GameDin.xyz](https://gamedin.xyz) LIVE
 - 🧠 Psychic link, concentrate really really had and I'll feel you
 
