@@ -1,33 +1,43 @@
-# 🥀 Hello, I’m @EsKaye
+# 🥀 Hello, World. I'm @EsKaye
 
-💡 Non Profit Visionary. Code Alchemist. GameChanger.
+**Software Engineer · Systems Architect · Code Alchemist · Occasional Menace to Conventional Thinking**
 
-🎮 I’m building **[GameDin.xyz](https://gamedin.xyz)** — the **LinkedIn for Gamers, Developers, eSports Enthusiasts... and their Mothers** (yes, seriously).
+I engineer software, explore unconventional architectures, and occasionally convince hardware to do things its manufacturers never intended.
 
-🌐 My goal? To unite tribes across gaming, tech, and the multiverse — one connection at a time.
+My interests span AI systems, game development, automation, embedded platforms, reverse engineering, and building technology that makes people ask:
 
-⚔️ Currently working with:
-- Unity & Primal Genesis Engine
-- AI-Powered Tools
-- Web3/Cloud/Real-time Systems
-- Secret projects that may or may not disrupt the matrix
+*"Wait. You can actually do that?"*
 
-🤝 I’m looking to collaborate on:
-- Innovative games
-- Community platforms
-- AI integrations
-- Anything bold, wild, or beautifully unreasonable
+**Usually, yes. Sometimes it takes a few more commits.**
 
-📫 Reach out:
-- 📧 Discord! es.kaye
-- 🌍 [GameDin.xyz](https://gamedin.xyz) LIVE
-- 🧠 Psychic link, concentrate really really had and I'll feel you
+---
 
-🧙‍♂️ TL;DR:
-If you’ve got a dream, a game, or a destiny — let’s build it together.
+### ⚡ Currently Engineering
 
-*“We’re not just developing software… we’re scripting new realities.”*
+- 🎮 **[GameDin.xyz](https://gamedin.xyz)** — A gaming-focused professional and community network. Think LinkedIn for gamers, developers, esports enthusiasts... and their mothers. Yes, seriously.
+- 🎵 **AirPS3** — Bringing AirPlay functionality to the PlayStation 3 through custom homebrew development and system integration.
+- 🧪 **Unannounced Experiments** — Because not every questionable engineering decision needs a public roadmap.
 
+### 🛠️ Technical Interests
 
+`Systems Engineering` · `AI/LLMs` · `Python` · `Bash` · `C/C++` · `Embedded Systems` · `Homebrew` · `Reverse Engineering` · `Game Development` · `Unity` · `Cloud Architecture` · `Automation`
 
-🐈‍⬛🌘🥀🖤🦁
+I'm particularly interested in extending the capabilities of existing systems, bridging hardware and software, and developing tools that make complex technology more accessible.
+
+### 🤝 Open to Collaboration
+
+I'm interested in ambitious open-source projects, AI integrations, unconventional hardware applications, gaming infrastructure, and developers who appreciate both clean architecture and the occasional spectacularly unreasonable idea.
+
+**Build responsibly. Experiment relentlessly. Document everything.**
+
+### 📡 Establish Contact
+
+- 💬 **Discord:** `es.kaye`
+- 🌐 **Web:** [GameDin.xyz](https://gamedin.xyz)
+- 🧠 **Psychic Link:** Still in beta. Packet loss is astronomical.
+
+---
+
+*“We're not just developing software. We're scripting new realities.”*
+
+🐈‍⬛ 🌘 🥀 🖤 🦁
