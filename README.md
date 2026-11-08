@@ -1,6 +1,6 @@
 # 🥀 Hello, I’m @EsKaye
 
-💡 Visionary. Code Alchemist. GameChanger.
+💡 Non Profit Visionary. Code Alchemist. GameChanger.
 
 🎮 I’m building **[GameDin.xyz](https://gamedin.xyz)** — the **LinkedIn for Gamers, Developers, eSports Enthusiasts... and their Mothers** (yes, seriously).
 
